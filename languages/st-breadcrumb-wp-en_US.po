@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ST Breadcrumb WP v1\n"
+"POT-Creation-Date: 2014-10-15 12:40+0700\n"
+"PO-Revision-Date: 2014-10-15 12:43+0700\n"
+"Last-Translator: \n"
+"Language-Team: beautifull-templates <zando.shop@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../st-breadcrumb.php:69
+msgid "ST Breadcrumb WP"
+msgstr ""
+
+#: ../st-breadcrumb.php:71
+msgid "Global Setting"
+msgstr "Global Setting"
+
+#: ../st-breadcrumb.php:76
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: ../st-breadcrumb.php:78
+msgid "ST Breadcrumb shortcode"
+msgstr ""
+
+#: ../st-breadcrumb.php:82
+msgid "ST Breadcrumb shortcode for templates"
+msgstr ""
+
+#: ../st-breadcrumb.php:86
+msgid "Text for the home link"
+msgstr "Text for the home link"
+
+#: ../st-breadcrumb.php:90
+msgid "Text for the category"
+msgstr ""
+
+#: ../st-breadcrumb.php:94
+msgid "Text for the Posts Tagged"
+msgstr ""
+
+#: ../st-breadcrumb.php:98
+msgid "Text for the Search Results"
+msgstr ""
+
+#: ../st-breadcrumb.php:102
+msgid "Text for the author"
+msgstr ""
+
+#: ../st-breadcrumb.php:106
+msgid "Delimiter"
+msgstr ""
+
+#: ../st-breadcrumb.php:110
+msgid "Custom Css"
+msgstr ""
+
+#: ../st-breadcrumb.php:190
+msgid "You do not have sufficient permissions to edit plugin for this site."
+msgstr ""
+
+#: ../st-breadcrumb.php:286
+msgid "Abouts"
+msgstr ""
+
+#: ../st-breadcrumb.php:297
+msgid "Home"
+msgstr ""
+
+#: ../st-breadcrumb.php:300
+msgid "Submit Ticket"
+msgstr ""
+
+#: ../st-breadcrumb.php:303
+msgid "Forum"
+msgstr ""
+
+#: ../st-breadcrumb.php:307
+msgid "Document"
+msgstr ""
+
+#: ../widget.php:17
+msgid "Title:"
+msgstr ""
